@@ -8,6 +8,7 @@ The concept for this chat bot evolved from [this Medium article] covering an eve
 
 ### Goals
 The intended execution of the idea is a Slack chat bot that, at a given time each evening, will ask three questions, similar to how many development teams run stand up meetings.
+
 1. What progress did you make today?
 2. What did you learn today?
 3. What progress or learning opportunites are you looking forward to tomorrow?
@@ -15,7 +16,8 @@ The intended execution of the idea is a Slack chat bot that, at a given time eac
 A potential greeting message in the morning could reiterate the items in #3.
 
 Additionally, I would like to support a few [slash commands] to be able to add things on the fly:
-1. `TIL` - immediately add something to today's list of learned things
-2. `YIL` - add something that was learned yesterday but forgotten
+
+* `TIL` - immediately add something to today's list of learned things
+* `YIL` - add something that was learned yesterday but forgotten in the daily update
 
 [slack commands]: https://api.slack.com/slash-commands
