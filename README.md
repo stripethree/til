@@ -2,7 +2,7 @@
 A chat bot to close the day.
 
 ### Ideation
-The concept for this chat bot evolved from [this Medium article] covering an evening ritual that helps wind down the mind, reduce decision fatigue and prepare for the next day. These subjects interest me since I often have trouble shutting down the buzzing of things in my mind, I have working towards a growth rather than goal oriented mindset, and I work well when I have established routines for work and productivity.
+The concept for this chat bot evolved from [this Medium article] covering an evening ritual that helps wind down the mind, reduce decision fatigue and prepare for the next day. These subjects interest me since I often have trouble shutting down the buzzing of things in my mind to get to sleep, I have been working towards more of a growth rather than goal oriented mindset, and I work well when I have established routines for work and productivity.
 
 [this Medium article]: https://medium.com/art-of-practicality/this-30-minute-evening-ritual-will-help-you-to-kick-life-in-the-ass-fb2c2625f757#.1q8v6ikqv
 
